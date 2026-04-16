@@ -1,0 +1,40 @@
+Epoch 1 Train Loss: 0.2097
+438.5s	53	 Epoch 1 mIoU: 31.93%
+438.5s	54	
+439.0s	55	 New best mIoU: 31.93% (Saved!)
+692.4s	56	 Epoch 2 Train Loss: 0.2790
+702.4s	57	 Epoch 2 mIoU: 34.75%
+702.4s	58	
+703.4s	59	 New best mIoU: 34.75% (Saved!)
+958.0s	60	 Epoch 3 Train Loss: 0.2494
+968.1s	61	 Epoch 3 mIoU: 32.46%
+968.1s	62	
+1222.3s	63	 Epoch 4 Train Loss: 0.2025
+1232.3s	64	 Epoch 4 mIoU: 34.87%
+1232.3s	65	
+1233.4s	66	 New best mIoU: 34.87% (Saved!)
+1488.0s	67	 Epoch 5 Train Loss: 0.1792
+1498.0s	68	 Epoch 5 mIoU: 35.06%
+1498.0s	69	
+1499.1s	70	 New best mIoU: 35.06% (Saved!)
+1753.8s	71	 Epoch 6 Train Loss: 0.1562
+1763.8s	72	 Epoch 6 mIoU: 35.37%
+1763.8s	73	
+1764.9s	74	 New best mIoU: 35.37% (Saved!)
+2019.3s	75	 Epoch 7 Train Loss: 0.1375
+2029.3s	76	 Epoch 7 mIoU: 35.92%
+2029.3s	77	
+2030.3s	78	 New best mIoU: 35.92% (Saved!)
+2284.9s	79	 Epoch 8 Train Loss: 0.1247
+2295.0s	80	 Epoch 8 mIoU: 35.78%
+2295.0s	81	
+2548.8s	82	 Epoch 9 Train Loss: 0.1155
+2558.8s	83	 Epoch 9 mIoU: 36.01%
+2558.8s	84	
+2559.9s	85	 New best mIoU: 36.01% (Saved!)
+2814.6s	86	 Epoch 10 Train Loss: 0.1089
+2824.6s	87	 Epoch 10 mIoU: 35.87%
+2824.6s	88	
+2827.1s	89	
+2827.1s	90	 Training Complete! Best DPT-Hybrid mIoU: 36.01%
+2827.3s	91	 Generating quick sample predictions..

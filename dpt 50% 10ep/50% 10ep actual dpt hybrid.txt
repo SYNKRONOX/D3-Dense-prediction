@@ -1,0 +1,41 @@
+143.9s	34	
+143.9s	35	 Starting DPT-Hybrid Training: 10 epochs | 50% data
+143.9s	36	============================================================
+1356.9s	47	 Epoch 1 Train Loss: 0.2184
+1366.5s	53	 Epoch 1 mIoU: 32.16%
+1366.5s	54	
+1367.0s	55	 New best mIoU: 32.16% (Saved!)
+2570.5s	56	 Epoch 2 Train Loss: 0.2834
+2580.0s	57	 Epoch 2 mIoU: 34.74%
+2580.0s	58	
+2581.2s	59	 New best mIoU: 34.74% (Saved!)
+3786.7s	60	 Epoch 3 Train Loss: 0.2504
+3796.2s	61	 Epoch 3 mIoU: 35.04%
+3796.2s	62	
+3797.2s	63	 New best mIoU: 35.04% (Saved!)
+5003.4s	64	 Epoch 4 Train Loss: 0.2087
+5012.9s	65	 Epoch 4 mIoU: 34.21%
+5012.9s	66	
+6219.5s	67	 Epoch 5 Train Loss: 0.1797
+6229.0s	68	 Epoch 5 mIoU: 34.34%
+6229.0s	69	
+7435.1s	70	 Epoch 6 Train Loss: 0.1586
+7444.7s	71	 Epoch 6 mIoU: 35.12%
+7444.7s	72	
+7445.8s	73	 New best mIoU: 35.12% (Saved!)
+8653.4s	74	 Epoch 7 Train Loss: 0.1415
+8663.0s	75	 Epoch 7 mIoU: 35.70%
+8663.0s	76	
+8664.0s	77       New best mIoU: 35.70% (Saved!)
+9867.5s	78	 Epoch 8 Train Loss: 0.1289
+9877.1s	79	 Epoch 8 mIoU: 35.66%
+9877.1s	80	
+11082.5s81	Epoch 9 Train Loss: 0.1176
+11092.1s82	Epoch 9 mIoU: 35.79%
+11092.1s83	
+11093.2s84	New best mIoU: 35.79% (Saved!)
+12299.7s85	Epoch 10 Train Loss: 0.1106
+12309.2s86	Epoch 10 mIoU: 35.55%
+12309.2s87	
+12311.7	88	
+12311.7s89	Training Complete! Best DPT-Hybrid mIoU: 35.79%

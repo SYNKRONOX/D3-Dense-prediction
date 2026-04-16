@@ -1,0 +1,37 @@
+Starting training: 10 epochs | 10pct data
+ Train batches: 253 | Val batches: 500
+
+============================================================
+ Training completed in 3.1 min | Avg Loss: 0.2678
+ Validation completed in 0.9 min | mIoU: 43.15%
+ New best mIoU: 43.15%
+ Checkpoint saved.
+ Training completed in 1.9 min | Avg Loss: 0.2303
+ Validation completed in 0.8 min | mIoU: 43.13%
+ Checkpoint saved.
+ Training completed in 1.9 min | Avg Loss: 0.2040
+ Validation completed in 0.8 min | mIoU: 42.85%
+ Checkpoint saved.
+ Training completed in 1.9 min | Avg Loss: 0.1786
+ Validation completed in 0.8 min | mIoU: 42.74%
+ Checkpoint saved.
+ Training completed in 1.9 min | Avg Loss: 0.1601
+ Validation completed in 0.8 min | mIoU: 42.38%
+ Checkpoint saved.
+ Training completed in 1.9 min | Avg Loss: 0.1477
+ Validation completed in 0.8 min | mIoU: 42.58%
+ Checkpoint saved.
+ Training completed in 1.9 min | Avg Loss: 0.1371
+ Validation completed in 0.8 min | mIoU: 42.48%
+ Checkpoint saved.
+ Training completed in 1.9 min | Avg Loss: 0.1279
+ Validation completed in 0.8 min | mIoU: 42.71%
+ Checkpoint saved.
+ Training completed in 1.9 min | Avg Loss: 0.1220
+ Validation completed in 0.8 min | mIoU: 42.71%
+ Checkpoint saved.
+ Training completed in 1.9 min | Avg Loss: 0.1201
+ Validation completed in 0.8 min | mIoU: 42.73%
+ Checkpoint saved.
+
+ Training Complete! Best mIoU: 43.15%

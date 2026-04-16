@@ -1,0 +1,39 @@
+165.9s	179	 Starting training: 10 epochs | 100pct data
+165.9s	180	 Train batches: 5052 | Val batches: 50
+165.9s	182	============================================================
+1192.3s	183	
+1192.3s	184	 Training completed in 17.1 min | Avg Loss: 0.3536
+1198.1s	185	 Validation completed in 0.1 min | mIoU: 31.27%
+1198.4s	186	 New best mIoU: 31.27%
+2157.7s	188	
+2157.7s	189	 Training completed in 16.0 min | Avg Loss: 0.3135
+2163.2s	190	 Validation completed in 0.1 min | mIoU: 34.02%
+2163.6s	191	 New best mIoU: 34.02%
+2163.8s	192	 
+3127.4s	193	
+3127.4s	194	 Training completed in 16.1 min | Avg Loss: 0.2781
+3133.0s	195	 Validation completed in 0.1 min | mIoU: 33.99%
+4092.9s	197	
+4092.9s	198	 Training completed in 16.0 min | Avg Loss: 0.2448
+4098.4s	199	 Validation completed in 0.1 min | mIoU: 33.17%
+5065.1s	201	
+5065.1s	202	 Training completed in 16.1 min | Avg Loss: 0.2195
+5070.8s	203	 Validation completed in 0.1 min | mIoU: 33.31%
+6035.5s	205	
+6035.5s	206	 Training completed in 16.1 min | Avg Loss: 0.1999
+6041.1s	207	 Validation completed in 0.1 min | mIoU: 34.61%
+6041.5s	208	 New best mIoU: 34.61%
+7012.8s	210	
+7012.8s	211	 Training completed in 16.2 min | Avg Loss: 0.1823
+7018.7s	212	 Validation completed in 0.1 min | mIoU: 33.65%
+7987.0s	214	
+7987.0s	215	 Training completed in 16.1 min | Avg Loss: 0.1685
+7992.6s	216	 Validation completed in 0.1 min | mIoU: 33.96%
+8942.3s	218	
+8942.3s	219	 Training completed in 15.8 min | Avg Loss: 0.1581
+8948.1s	220	 Validation completed in 0.1 min | mIoU: 33.90%
+9900.9s	222	
+9900.9s	223	 Training completed in 15.9 min | Avg Loss: 0.1507
+9906.4s	224	 Validation completed in 0.1 min | mIoU: 33.82%
+9907.0s	226	
+9907.0s	227	 Training Complete! Best mIoU: 34.61%
